@@ -1,4 +1,4 @@
-#🌿 Potato Leaf Disease Detection Using CNN
+🌿 Potato Leaf Disease Detection Using CNN
 
 📌 Overview
 
