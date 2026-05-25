@@ -1,6 +1,6 @@
-🌿 Potato Leaf Disease Detection Using CNN
+# 🌿 Potato Leaf Disease Detection Using CNN
 
-📌 Overview
+## 📌 Overview
 
 This project uses Deep Learning techniques to detect potato leaf diseases from images using a Convolutional Neural Network (CNN). The model classifies potato leaf images into three categories:
 
@@ -10,7 +10,7 @@ Late Blight
 
 The project helps in early disease identification and supports smart agriculture practices.
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 Python
 TensorFlow / Keras
@@ -19,18 +19,18 @@ Pandas
 Matplotlib
 Streamlit
 
-✨ Features
+## ✨ Features
 
 Image preprocessing and normalization
 CNN-based image classification
 Disease prediction with confidence score
 Streamlit web application for real-time prediction
 
-📂 Dataset
+## 📂 Dataset
 
 Dataset collected from Kaggle containing labeled potato leaf images.
 
-⚙ Workflow
+## ⚙ Workflow
 
 Data Collection
 Data Preprocessing
@@ -38,7 +38,7 @@ CNN Model Building
 Model Training and Evaluation
 Prediction and Deployment using Streamlit
 
-📊 Output
+## 📊 Output
 
 The model predicts whether the uploaded potato leaf image is:
 
@@ -46,7 +46,7 @@ Healthy
 Early Blight
 Late Blight
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Improve model accuracy with larger datasets
 Add support for multiple plant diseases
